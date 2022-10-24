@@ -1,4 +1,4 @@
-# Gradle Dependencies
+# Adding Gradle Dependencies
 
 ## Learning Goals
 
